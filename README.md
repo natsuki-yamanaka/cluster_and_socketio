@@ -2,7 +2,7 @@
 
 ##depends on
 node.js@0.8.21  
-socket.io@0.9.16
+socket.io@0.9.16  
 Redis server v=2.6.14
 
 ##How to run
